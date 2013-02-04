@@ -24,6 +24,7 @@ public class Projekt {
         
         iksinski.dodajProdukt(warzywniak.truskawki, .77);
         iksinski.dodajProdukt(warzywniak.gruszki, .78);
+        iksinski.dodajProdukt(warzywniak.jablka, 1.2);
         
         iksinski.zawartoscKosza();
         warzywniak.kasa.wystawParagon(iksinski);
